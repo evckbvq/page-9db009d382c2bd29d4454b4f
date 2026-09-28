@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.gongchengrc.cn/sitemap.xml
